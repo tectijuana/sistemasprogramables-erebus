@@ -5,6 +5,6 @@
 | Integrantes | Participación | Calificación |
 |-------------|----------------|--------------|
 | Alvarado Godinez Edson           |                |              |
-| Aragon Bustos Victor Leonel           |                |              |
+|            |                |              |
 | Martinez Cervantes Gerardo           |                |              |
 | d           |                |              |
