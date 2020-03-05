@@ -31,6 +31,15 @@ Para poder solucionar el problema que tienen estos sensores, se utiliza un  emis
 ## Partes de un sensor óptico
 Este tipo de sensor no es muy complejo por consecuencia están conformados por pocas partes y todas sencillas de entender:
 
+##Emisor
+
+Origina un haz luminoso, usualmente con un LED que puede tener un amplio rango en el espectro (incluyendo luz visible e infraroja). Para la mayoria de las aplicaciones se prefiere kas radiaciones infrarojas pues son las que mayor porcentaje de luz emiten y disipan menos calor. Los LEDs tipos visibles son muy utiles sobre todo para facilitar el ajuste de la operacion del sensor. Entre los LED de luz visible los LEDs de luz roja son los más eficaces para la aplicación. En la figura 1 se muestra el diagrama de un LED y se observan sus partes.
+
+![](https://image.slidesharecdn.com/sensoresopticos-130218203210-phpapp02/95/sensores-opticos-1-638.jpg?cb=1422632042)
+
+
+
+
 - **Emisor**: Da origen a un haz luminoso normalmente a travez de un led infrarrojo.
 - **Receptor**: Esta encargado de captar la señal producida por el emisor, generalmente se utiliza un fototransistor o un fotodiodo.
 - **Lentes**: Están diseñados para modificar el campo de visión de los componentes, esto trae como consecuencia el aumento de la distancia de detección
