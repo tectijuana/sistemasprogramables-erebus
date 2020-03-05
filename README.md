@@ -51,7 +51,7 @@ Usa un espejo especial (reflector) con alta reflectividad para medir y comparar 
 de luz emitida con la luz recibida a través del espejo. En el mismo cuerpo se encuentra el emisor y el receptor.
 
 ![](https://www.keyence.com.mx/Images/sensorbasics_photoelectric_info_img_03_1547921.gif?ssl=1)
-/n/n/n
+
 
 
 
@@ -60,3 +60,26 @@ Incluye un filtro polarizador para recibir únicamente la luz reflejada provenie
  
 ![](https://1.bp.blogspot.com/-S0XkUPYiZc4/XmFeWp9lk_I/AAAAAAAABa4/b9fUhsGliAsUaR_MQ349mV_3BvmCMTskQCLcBGAsYHQ/s1600/Retro%2Breflectivo%2Bpolarizado.PNG?ssl=1)
 
+
+
+**Difuso Reflectivo**
+Detecta recibiendo directamente la luz reflejada del objeto. En el mismo cuerpo se encuentra el emisor y
+el receptor.
+
+![](https://www.keyence.com.mx/Images/sensorbasics_photoelectric_info_img_01_1547919.gif?ssl=1)
+
+
+
+**Convergente reflectivo**
+ Distancia de detección limitada. El fondo y color del objeto no tienen efectos significativos en la detección.
+
+![](https://1.bp.blogspot.com/-TrPQI6Xh-Wc/XmFgnZylgqI/AAAAAAAABbc/r215tLwLtNwHqHwKIlZYozNjS8jo425nQCLcBGAsYHQ/s1600/1.PNG?ssl=1)
+
+
+
+**Amplificador de fibra óptica**
+Sensor fotoeléctrico que tiene separada la electrónica (amplificador) y la óptica (fibra).
+- Detectan objetos pequeños.
+- Instalación el lugares estrechos y ambientes hostiles
+
+![](https://img.directindustry.es/images_di/photo-g/16061-10982542.jpg?ssl=1)
