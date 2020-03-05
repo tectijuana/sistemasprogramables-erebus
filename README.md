@@ -38,14 +38,16 @@ Este tipo de sensor no es muy complejo por consecuencia están conformados por p
 
 ## Clasificacion de sensores ópticos
 
- - **Barrera (Emisor-Receptor)**:Detectan al objeto midiendo la diferencia de intensidad de la luz que se emite el emisor y la que llega al receptor
+**Barrera (Emisor-Receptor)**
+Detectan al objeto midiendo la diferencia de intensidad de la luz que se emite el emisor y la que llega al receptor
  
 ![](https://www.keyence.com.mx/Images/sensorbasics_photoelectric_info_img_02_1547920.gif?ssl=1)
 
 
 
 
- - **Retro reflectivo**:Usa un espejo especial (reflector) con alta reflectividad para medir y comparar la diferencia de cantidad
+**Retro reflectivo**
+Usa un espejo especial (reflector) con alta reflectividad para medir y comparar la diferencia de cantidad
 de luz emitida con la luz recibida a través del espejo. En el mismo cuerpo se encuentra el emisor y el receptor.
 
 ![](https://www.keyence.com.mx/Images/sensorbasics_photoelectric_info_img_03_1547921.gif?ssl=1)
@@ -53,7 +55,8 @@ de luz emitida con la luz recibida a través del espejo. En el mismo cuerpo se e
 
 
 
- - **Retro reflectivo polarizado**:Incluye un filtro polarizador para recibir únicamente la luz reflejada proveniente del reflejante. Se aplica para detectar objetos con superficies brillantes (plástico, acrílico, piezas con pintura brillante). En el mismo cuerpo se encuentra el emisor y el receptor.
+**Retro reflectivo polarizado**
+Incluye un filtro polarizador para recibir únicamente la luz reflejada proveniente del reflejante. Se aplica para detectar objetos con superficies brillantes (plástico, acrílico, piezas con pintura brillante). En el mismo cuerpo se encuentra el emisor y el receptor.
  
 ![](https://1.bp.blogspot.com/-S0XkUPYiZc4/XmFeWp9lk_I/AAAAAAAABa4/b9fUhsGliAsUaR_MQ349mV_3BvmCMTskQCLcBGAsYHQ/s1600/Retro%2Breflectivo%2Bpolarizado.PNG?ssl=1)
 
