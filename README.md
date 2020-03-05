@@ -36,6 +36,9 @@ Este tipo de sensor no es muy complejo por consecuencia están conformados por p
 
 ![](https://i1.wp.com/www.ingmecafenix.com/wp-content/uploads/2018/04/Partes-sensor-infrarrojo.jpg?ssl=1)
 
+
+
+
 ## Clasificacion de sensores ópticos
 
 **Barrera (Emisor-Receptor)**
