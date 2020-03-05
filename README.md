@@ -35,3 +35,16 @@ Este tipo de sensor no es muy complejo por consecuencia están conformados por p
 - **Circuito de salida**: Básicamente es el circuito que se encarga de mandar la señal de salida ya sea digital o analógica.
 
 ![](https://i1.wp.com/www.ingmecafenix.com/wp-content/uploads/2018/04/Partes-sensor-infrarrojo.jpg?ssl=1)
+
+## Clasificacion de sensores ópticos
+
+ - **Barrera (Emisor-Receptor)**:Detectan al objeto midiendo la diferencia de intensidad de la luz que se emite el emisor y la que llega al receptor
+![](https://www.keyence.com.mx/Images/sensorbasics_photoelectric_info_img_02_1547920.gif?ssl=1)
+
+ - **Retro reflectivo**:Usa un espejo especial (reflector) con alta reflectividad para medir y comparar la diferencia de cantidad
+de luz emitida con la luz recibida a través del espejo. En el mismo cuerpo se encuentra el emisor y el receptor.
+![](https://www.keyence.com.mx/Images/sensorbasics_photoelectric_info_img_03_1547921.gif?ssl=1)
+
+ - **Retro reflectivo polarizado**:Incluye un filtro polarizador para recibir únicamente la luz reflejada proveniente del reflejante. Se aplica para detectar objetos con superficies brillantes (plástico, acrílico, piezas con pintura brillante). En el mismo cuerpo se encuentra el emisor y el receptor.
+![](https://drive.google.com/file/d/1ukJMODIdlX-cZ8hSI3dUN3lECW465tln/view?ssl=1)
+
