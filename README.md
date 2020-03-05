@@ -51,7 +51,7 @@ Usa un espejo especial (reflector) con alta reflectividad para medir y comparar 
 de luz emitida con la luz recibida a través del espejo. En el mismo cuerpo se encuentra el emisor y el receptor.
 
 ![](https://www.keyence.com.mx/Images/sensorbasics_photoelectric_info_img_03_1547921.gif?ssl=1)
-
+/n/n/n
 
 
 
