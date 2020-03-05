@@ -13,6 +13,8 @@
 Un sensor óptico o también llamado fotoeléctrico es capaz de detectar una presencia o algún objeto a distancia, a travez del cambio de intensidad de luz. Debido a que estos dispositivos se basan en la cantidad de luz detectada o reflectividad de los objetos, es posible detectar casi todos los tipos de materiales, por ejemplo. Vidrio, metal, plástico, madera y líquidos.
 sensor óptico.
 
+Los sensores ópticos son de los más sensibles que existen y justamente por este motivo es que la mayoría de ellos no duran demasiado tiempo, además más allá de las utilidades que los mismos pueden tener. 
+
 ![sensor_óptico](https://i1.wp.com/www.ingmecafenix.com/wp-content/uploads/2018/04/Fotoel%C3%A9ctrico.png?w=438&ssl=1)
 
 ## ¿Como funcionan?
