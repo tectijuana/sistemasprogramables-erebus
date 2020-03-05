@@ -35,6 +35,12 @@ Este tipo de sensor no es muy complejo por consecuencia están conformados por p
 
 Origina un haz luminoso, usualmente con un LED que puede tener un amplio rango en el espectro (incluyendo luz visible e infraroja). Para la mayoria de las aplicaciones se prefiere kas radiaciones infrarojas pues son las que mayor porcentaje de luz emiten y disipan menos calor. Los LEDs tipos visibles son muy utiles sobre todo para facilitar el ajuste de la operacion del sensor. Entre los LED de luz visible los LEDs de luz roja son los más eficaces para la aplicación. En la figura 1 se muestra el diagrama de un LED y se observan sus partes.
 
+## Imagen 1 aqui
+
+El haz con frecuencai es modulado con pulsos, ya que la modulación presenta ventajas como son: mayor luminosidad en el haz, mayor vida útil del LED, inmunidad del sensor a otras fuentes de luz que puedan unterferir con la señal. Presenta la desventaja de reducir la respuesta en frecuencia del detector óptico. La figura 2 presenta los pulsos de alimentación para la modulación de un emisor.
+
+## Imagen 2 aqui
+
 
 
 
