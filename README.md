@@ -41,6 +41,19 @@ El haz con frecuencai es modulado con pulsos, ya que la modulación presenta ven
 
 ## Imagen 2 aqui
 
+## Receptor
+
+Recibe el haz luminoso de la fuente, usualmente es un fotodiodo o un foto transistor. El foto sensor debe estar acoplado espectramente con el emisor, esto significa que el fotodiodo o el foto transistor que se encuentra en el detector debe permitir mayor circulación de corriente cuando la longitud de onda recibida sea igual a la del LED en el emisor. El receptor recibe los pulsos de luz en sincronia con el emisor, esto permite ignorar radiaciones provenientes de otras fuentes. Este tipo de recepción sincrónica sólo es posible cuando la fuente y el receptor están en el mismo encapsulado. En el receptor, además existe un circuito asociado que acondiciona la señal antes de llegar al dispositivo de salida. En la figuta 3 se observa una gráfica que muestra como LED infrarrojo tiene mayor eficacia que el LED visible rojo.
+
+## Imagen 3
+
+## Lentes 
+
+Tienen la función de dirigir el haz de luz tanto en el emisor como en el receptor para restringir el campo de visión, esto trae como consecuencia aumentar la distancia de detección. El área de la base del cono de haz emitido por el LED y el lente aumenta a mayor distancia. Utilizando un lente que se puede generar un cono muy estrecho, lo que permitiría darle más alcance al sensor pero con el inconveniente de presentar mayor dificultad en el momento de alinearlo. Algunos detectores son diseñados para tener un amplio campo de visión, esto permite detectar objetos grandes, pero a distancias relativamente cortas. La figura 4 presenta como propaga el campo de visión en presencia y ausencia del lente.
+
+## Imagen 4
+
+
 
 
 
