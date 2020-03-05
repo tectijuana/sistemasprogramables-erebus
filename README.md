@@ -85,4 +85,4 @@ Sensor fotoeléctrico que tiene separada la electrónica (amplificador) y la óp
 - Detectan objetos pequeños.
 - Instalación el lugares estrechos y ambientes hostiles
 
-![](https://img.directindustry.es/images_di/photo-g/16061-10982542.jpg?ssl=1)
+![](https://www.panasonic-electric-works.com/pew/es/images/sensors/pp_fx550_rdax_478x358.jpg?ssl=1)
