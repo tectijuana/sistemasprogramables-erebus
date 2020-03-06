@@ -7,7 +7,7 @@
 | Alvarado Godinez Edson          |                |              |
 | Aragon Bustos Victor Leonel           |                |              |
 | Martinez Cervantes Gerardo           |                |              |
-| d           |                |              |
+| Luna Fuentes Fernando           |                |              |
 
 ## Definición
 Un sensor óptico o también llamado fotoeléctrico es capaz de detectar una presencia o algún objeto a distancia, a travez del cambio de intensidad de luz. Debido a que estos dispositivos se basan en la cantidad de luz detectada o reflectividad de los objetos, es posible detectar casi todos los tipos de materiales, por ejemplo. Vidrio, metal, plástico, madera y líquidos.
