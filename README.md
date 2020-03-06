@@ -148,6 +148,13 @@ El sensor tiene 2 puertos de material ultrasencible a la luz almacenado en una c
 [![](http://img.youtube.com/vi/LeqxiUZSOf4/0.jpg)](http://www.youtube.com/watch?v=LeqxiUZSOf4 "PIR Standalone Setup")
 
 
+## Propuesta de Proyecto: Alarma Óptica
+
+Se creará una alarma óptica con un alcance de 1Metro con el fin de utilizar el sensor óptico que nos tocó, Se utilizará un fotodiodo y un fototransistor este funcionara conectandolos el fotodiodo estará encendido todo el momento hasta que esté algo que esté obstruyendo la señal del fotodiodo y fototransistor y activará el transistor y encenderá un led avisando que hay algo que está obstruyendo la señal y así se avisara de que hay algo que no esté bien.
+
+![](https://imgshare.io/images/2020/03/05/Circuito-de-la-practica.png?ssl=1)
+
+
 ## Tabla de materiales de la propuesta
 | Materiales              | Precio        | Descripción                         |
 |-------------------------|---------------|-------------------------------------|
