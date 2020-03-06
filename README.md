@@ -146,3 +146,15 @@ El sensor tiene 2 puertos de material ultrasencible a la luz almacenado en una c
 
 ## Video de como utilizar el sensor PIR
 [![](http://img.youtube.com/vi/LeqxiUZSOf4/0.jpg)](http://www.youtube.com/watch?v=LeqxiUZSOf4 "PIR Standalone Setup")
+
+
+## Tabla de materiales de la propuesta
+| Materiales              | Precio        | Descripcion                         |
+|-------------------------|---------------|-------------------------------------|
+| tip122                  | $10.00        | Transistor con diodo Darlington NPN |
+| tip127                  | $6.30         | Transistor con diodo Darlington PNP |
+| Resistencia 10k         | $2.00         | Resistencias                        |
+| Led emisor o fotodiodo  | $3.00 - $7.00 | Diodo emisor de luz                 |
+| Fototransistor receptor | $12.00        | Diodo infrarojo IR                  |
+| Baterias 5V y 12V       | $20.00        | Fuentes de voltaje                  |
+| Breadboard              | $120.00       | Tablero para conectar componentes   |
