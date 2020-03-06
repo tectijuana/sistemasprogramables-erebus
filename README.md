@@ -74,6 +74,13 @@ A continuación de manera mucho mas resumida, donde se trata de manera directa y
 
 ## Sensor Optico y Aplicaciones
 **Sensor Optico PIR**
+El sensor  PIR es un circuito electronico pasivo que mide luz infraroja radiando de los objetos.
+Comunmente usados en detectores de movimiento PIR como en las alarmas de seguridad y aplicaciones de luz automatizadas.
+
+El sensor PIR detecta movimiento pero no  envia informacion de que  fue lo que se movio, para eso se ocupa un sensor PIR activo. 
+El sensor tiene 2 puertos de material ultrasencible a la luz almacenado en una cubieta de metal que lo proteje de condiciones externas como temperatura, humedad, polvo etc. En conjunto con un lente que le ayuda a enfocar la luz a su alrededor hacia estos 2 puertos los cuales actuan en conjunto en detectar el diferencial de calor, asi enviando una instruccion 1 o 0.
+
+![sensor_óptico](https://cdn-learn.adafruit.com/guides/cropped_images/000/000/030/medium640/proximity_pirsensor.jpg?1520539813?w=438&ssl=1)
 
 ## Clasificacion de sensores ópticos
 
