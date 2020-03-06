@@ -53,7 +53,15 @@ Tienen la función de dirigir el haz de luz tanto en el emisor como en el recept
 
 ## Imagen 4
 
+## Circuito de salida 
 
+Existen varios tipos de salidas discretas o digitales (se denominan asi por  tener dos estados y las más comunes son: NPN o PNP, TRIAC, MOSFET. En la figura 5 se muestra un diagrama de bloque de un sensor fotoeléctrico con todas sus partes.
+
+## Figura 5 aqui
+
+La fuente de alimentación suministra la potencia necesaria para el funcionamiento del detector, en el regulador de voltaje se ajustan y mantienen los niveles de tensión utilizados por el resto de los bloques del sensor. El generador de pulsos de pulsos suministra al LED la señal modulada que permitirá la emisión de un haz discontinuo de luz que al chocar con un objeto regresa al foto detector. La salida de foto detector es amplificada (nota: la ganacia del amplificador puede ser cambiada para ajustar la sensibilidad) y luego es comparada con la frecuencia de pulsos para verificar que la señal recibida provenga del LED del detector, esto se hace en el integrador. El nivel de salida del integrador es chequeado en el detector de nivel de tal forma que la cantidad de luz recibida sea suficiente para activar o desactivar el sensor. En algunos sensores se puede colocar una lógica de tiempo opcional que permite introducir retardos para activar o desactivar la salida. Finalmente se encuentra el dispositivo de salida, para el diagrama de la figura 5, que corresponde a un sensor con salida discreta, este dispositivo puede ser un relé, un transistor NPN, un transistor PNP, un TRIAC, un FET o un MOSFET. La salida alimenta directamente a la carga que puede ser la entrada de un controlador lógico programable, la bobina de un relé, de un arrancador o de una válvula solenoide, una luz piloto o cualquier otro dispositivo de salida.
+
+A continuación de manera mucho mas resumida, donde se trata de manera directa y consisa las partes que integran el sensor óptico.
 
 
 
