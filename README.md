@@ -140,3 +140,6 @@ El sensor PIR detecta movimiento pero no  envia informacion de que  fue lo que s
 El sensor tiene 2 puertos de material ultrasencible a la luz almacenado en una cubieta de metal que lo proteje de condiciones externas como temperatura, humedad, polvo etc. En conjunto con un lente que le ayuda a enfocar la luz a su alrededor hacia estos 2 puertos los cuales actuan en conjunto en detectar el diferencial de calor, asi enviando una instruccion 1 o 0.
 
 ![sensor_óptico](https://cdn-learn.adafruit.com/guides/cropped_images/000/000/030/medium640/proximity_pirsensor.jpg?1520539813?w=438&ssl=1)
+
+## Diagrama de Elementos del sensor PIR Pasivo
+![sensor_óptico](https://cdn-learn.adafruit.com/assets/assets/000/000/513/medium800/proximity_pyrodiagram.gif?1447975952?1520539813?w=438&ssl=1)
