@@ -39,25 +39,25 @@ Origina un haz luminoso, usualmente con un LED que puede tener un amplio rango e
 
 El haz con frecuencai es modulado con pulsos, ya que la modulación presenta ventajas como son: mayor luminosidad en el haz, mayor vida útil del LED, inmunidad del sensor a otras fuentes de luz que puedan unterferir con la señal. Presenta la desventaja de reducir la respuesta en frecuencia del detector óptico. La figura 2 presenta los pulsos de alimentación para la modulación de un emisor.
 
-## Imagen 2 aqui
+![](https://merakideveloper.com/wp-content/uploads/2020/03/Figura-2.jpg)
 
 ## Receptor
 
 Recibe el haz luminoso de la fuente, usualmente es un fotodiodo o un foto transistor. El foto sensor debe estar acoplado espectramente con el emisor, esto significa que el fotodiodo o el foto transistor que se encuentra en el detector debe permitir mayor circulación de corriente cuando la longitud de onda recibida sea igual a la del LED en el emisor. El receptor recibe los pulsos de luz en sincronia con el emisor, esto permite ignorar radiaciones provenientes de otras fuentes. Este tipo de recepción sincrónica sólo es posible cuando la fuente y el receptor están en el mismo encapsulado. En el receptor, además existe un circuito asociado que acondiciona la señal antes de llegar al dispositivo de salida. En la figuta 3 se observa una gráfica que muestra como LED infrarrojo tiene mayor eficacia que el LED visible rojo.
 
-## Imagen 3
+![](https://merakideveloper.com/wp-content/uploads/2020/03/Figura-3.jpg)
 
 ## Lentes 
 
 Tienen la función de dirigir el haz de luz tanto en el emisor como en el receptor para restringir el campo de visión, esto trae como consecuencia aumentar la distancia de detección. El área de la base del cono de haz emitido por el LED y el lente aumenta a mayor distancia. Utilizando un lente que se puede generar un cono muy estrecho, lo que permitiría darle más alcance al sensor pero con el inconveniente de presentar mayor dificultad en el momento de alinearlo. Algunos detectores son diseñados para tener un amplio campo de visión, esto permite detectar objetos grandes, pero a distancias relativamente cortas. La figura 4 presenta como propaga el campo de visión en presencia y ausencia del lente.
 
-## Imagen 4
+![](https://merakideveloper.com/wp-content/uploads/2020/03/Figura-4.jpg)
 
 ## Circuito de salida 
 
 Existen varios tipos de salidas discretas o digitales (se denominan asi por  tener dos estados y las más comunes son: NPN o PNP, TRIAC, MOSFET. En la figura 5 se muestra un diagrama de bloque de un sensor fotoeléctrico con todas sus partes.
 
-## Figura 5 aqui
+![](https://merakideveloper.com/wp-content/uploads/2020/03/Figura-5.jpg)
 
 La fuente de alimentación suministra la potencia necesaria para el funcionamiento del detector, en el regulador de voltaje se ajustan y mantienen los niveles de tensión utilizados por el resto de los bloques del sensor. El generador de pulsos de pulsos suministra al LED la señal modulada que permitirá la emisión de un haz discontinuo de luz que al chocar con un objeto regresa al foto detector. La salida de foto detector es amplificada (nota: la ganacia del amplificador puede ser cambiada para ajustar la sensibilidad) y luego es comparada con la frecuencia de pulsos para verificar que la señal recibida provenga del LED del detector, esto se hace en el integrador. El nivel de salida del integrador es chequeado en el detector de nivel de tal forma que la cantidad de luz recibida sea suficiente para activar o desactivar el sensor. En algunos sensores se puede colocar una lógica de tiempo opcional que permite introducir retardos para activar o desactivar la salida. Finalmente se encuentra el dispositivo de salida, para el diagrama de la figura 5, que corresponde a un sensor con salida discreta, este dispositivo puede ser un relé, un transistor NPN, un transistor PNP, un TRIAC, un FET o un MOSFET. La salida alimenta directamente a la carga que puede ser la entrada de un controlador lógico programable, la bobina de un relé, de un arrancador o de una válvula solenoide, una luz piloto o cualquier otro dispositivo de salida.
 
