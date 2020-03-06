@@ -72,15 +72,6 @@ A continuación de manera mucho mas resumida, donde se trata de manera directa y
 
 ![](https://i1.wp.com/www.ingmecafenix.com/wp-content/uploads/2018/04/Partes-sensor-infrarrojo.jpg?ssl=1)
 
-## Sensor Optico y Aplicaciones
-**Sensor Optico PIR**
-El sensor  PIR es un circuito electronico pasivo que mide luz infraroja radiando de los objetos.
-Comunmente usados en detectores de movimiento PIR como en las alarmas de seguridad y aplicaciones de luz automatizadas.
-
-El sensor PIR detecta movimiento pero no  envia informacion de que  fue lo que se movio, para eso se ocupa un sensor PIR activo. 
-El sensor tiene 2 puertos de material ultrasencible a la luz almacenado en una cubieta de metal que lo proteje de condiciones externas como temperatura, humedad, polvo etc. En conjunto con un lente que le ayuda a enfocar la luz a su alrededor hacia estos 2 puertos los cuales actuan en conjunto en detectar el diferencial de calor, asi enviando una instruccion 1 o 0.
-
-![sensor_óptico](https://cdn-learn.adafruit.com/guides/cropped_images/000/000/030/medium640/proximity_pirsensor.jpg?1520539813?w=438&ssl=1)
 
 ## Clasificacion de sensores ópticos
 
@@ -141,3 +132,11 @@ En el caso que ya tengas configurado el sensor de forma física te explicamos co
 
 [![](http://img.youtube.com/vi/IkW5-hjZ7XM/0.jpg)](http://www.youtube.com/watch?v=IkW5-hjZ7XM "Configuracion del sensor CNY70")
 
+## Sensor Optico PIR
+El sensor  PIR es un circuito electronico pasivo que mide luz infraroja radiando de los objetos.
+Comunmente usados en detectores de movimiento PIR como en las alarmas de seguridad y aplicaciones de luz automatizadas.
+
+El sensor PIR detecta movimiento pero no  envia informacion de que  fue lo que se movio, para eso se ocupa un sensor PIR activo. 
+El sensor tiene 2 puertos de material ultrasencible a la luz almacenado en una cubieta de metal que lo proteje de condiciones externas como temperatura, humedad, polvo etc. En conjunto con un lente que le ayuda a enfocar la luz a su alrededor hacia estos 2 puertos los cuales actuan en conjunto en detectar el diferencial de calor, asi enviando una instruccion 1 o 0.
+
+![sensor_óptico](https://cdn-learn.adafruit.com/guides/cropped_images/000/000/030/medium640/proximity_pirsensor.jpg?1520539813?w=438&ssl=1)
