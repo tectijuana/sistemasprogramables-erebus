@@ -122,3 +122,15 @@ Sensor fotoeléctrico que tiene separada la electrónica (amplificador) y la óp
 - Instalación el lugares estrechos y ambientes hostiles
 
 ![](https://www.panasonic-electric-works.com/pew/es/images/sensors/pp_fx550_rdax_478x358.jpg?ssl=1)
+
+
+## Principio de funcionamiento del sensor óptico CNY70
+
+El principio es realmente sencillo, ya que en el momento que nosotros alimentamos el LED emisor, este genera una señal lumínica, rebotara en el obstáculo, de modo que el receptor mostrar la señal como que existe una interferencia.
+
+## ¿Cómo configurar un sensor óptico?
+
+En el caso que ya tengas configurado el sensor de forma física te explicamos como configurar, para ello es recomendable que utilices el software “Proteus 8”, de este modo podrás ver al simulación y el circuito final. En el vídeo esta todo explicado.
+
+[![](http://img.youtube.com/vi/IkW5-hjZ7XM/0.jpg)](http://www.youtube.com/watch?v=IkW5-hjZ7XM "Configuracion del sensor CNY70")
+
