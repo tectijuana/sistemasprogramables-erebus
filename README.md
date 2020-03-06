@@ -72,8 +72,8 @@ A continuación de manera mucho mas resumida, donde se trata de manera directa y
 
 ![](https://i1.wp.com/www.ingmecafenix.com/wp-content/uploads/2018/04/Partes-sensor-infrarrojo.jpg?ssl=1)
 
-
-
+## Sensor Optico y Aplicaciones
+**Sensor Optico PIR**
 
 ## Clasificacion de sensores ópticos
 
