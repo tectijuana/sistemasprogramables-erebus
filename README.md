@@ -145,4 +145,4 @@ El sensor tiene 2 puertos de material ultrasencible a la luz almacenado en una c
 ![sensor_óptico](https://cdn-learn.adafruit.com/assets/assets/000/000/513/medium800/proximity_pyrodiagram.gif?1447975952?1520539813?w=438&ssl=1)
 
 ## Video de como utilizar el sensor PIR con Arduino
-[![](http://img.youtube.com/vi/LeqxiUZSOf4)](http://www.youtube.com/watch?v=LeqxiUZSOf4 "PIR + Arduino")
+[![](http://img.youtube.com/vi/LeqxiUZSOf4/0.jpg)](http://www.youtube.com/watch?v=LeqxiUZSOf4 "PIR + Arduino")
