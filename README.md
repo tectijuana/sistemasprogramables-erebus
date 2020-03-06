@@ -149,7 +149,7 @@ El sensor tiene 2 puertos de material ultrasencible a la luz almacenado en una c
 
 
 ## Tabla de materiales de la propuesta
-| Materiales              | Precio        | Descripcion                         |
+| Materiales              | Precio        | Descripción                         |
 |-------------------------|---------------|-------------------------------------|
 | tip122                  | $10.00        | Transistor con diodo Darlington NPN |
 | tip127                  | $6.30         | Transistor con diodo Darlington PNP |
